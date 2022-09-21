@@ -1,0 +1,15 @@
+D:\4SemestreCSharp\Calendario\Calendario\bin\Debug\net6.0\Agenda.exe
+D:\4SemestreCSharp\Calendario\Calendario\bin\Debug\net6.0\Agenda.deps.json
+D:\4SemestreCSharp\Calendario\Calendario\bin\Debug\net6.0\Agenda.runtimeconfig.json
+D:\4SemestreCSharp\Calendario\Calendario\bin\Debug\net6.0\Agenda.dll
+D:\4SemestreCSharp\Calendario\Calendario\bin\Debug\net6.0\Agenda.pdb
+D:\4SemestreCSharp\Calendario\Calendario\obj\Debug\net6.0\Agenda.csproj.AssemblyReference.cache
+D:\4SemestreCSharp\Calendario\Calendario\obj\Debug\net6.0\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\4SemestreCSharp\Calendario\Calendario\obj\Debug\net6.0\Agenda.AssemblyInfoInputs.cache
+D:\4SemestreCSharp\Calendario\Calendario\obj\Debug\net6.0\Agenda.AssemblyInfo.cs
+D:\4SemestreCSharp\Calendario\Calendario\obj\Debug\net6.0\Agenda.csproj.CoreCompileInputs.cache
+D:\4SemestreCSharp\Calendario\Calendario\obj\Debug\net6.0\Agenda.dll
+D:\4SemestreCSharp\Calendario\Calendario\obj\Debug\net6.0\refint\Agenda.dll
+D:\4SemestreCSharp\Calendario\Calendario\obj\Debug\net6.0\Agenda.pdb
+D:\4SemestreCSharp\Calendario\Calendario\obj\Debug\net6.0\Agenda.genruntimeconfig.cache
+D:\4SemestreCSharp\Calendario\Calendario\obj\Debug\net6.0\ref\Agenda.dll
