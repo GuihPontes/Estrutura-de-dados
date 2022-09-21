@@ -21,6 +21,9 @@ namespace Agenda
         public Data DataNasciento { get;private set; }
         public List<Telefone> Telefones { get; private set; }
 
-       
+        public static implicit operator List<object>(Contato v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
